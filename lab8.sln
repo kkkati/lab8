@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie1", "zadanie1\zadanie1.csproj", "{00B26527-EC49-41B5-9030-BD9617E18B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie2", "zadanie2\zadanie2.csproj", "{4330041B-A937-4C65-8BC9-5D4FDA4D176B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie3", "zadanie3\zadanie3.csproj", "{D4282B8C-5AC4-4A31-B0E2-1F4306B88001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B26527-EC49-41B5-9030-BD9617E18B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B26527-EC49-41B5-9030-BD9617E18B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B26527-EC49-41B5-9030-BD9617E18B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B26527-EC49-41B5-9030-BD9617E18B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4330041B-A937-4C65-8BC9-5D4FDA4D176B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4330041B-A937-4C65-8BC9-5D4FDA4D176B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4330041B-A937-4C65-8BC9-5D4FDA4D176B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4330041B-A937-4C65-8BC9-5D4FDA4D176B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4282B8C-5AC4-4A31-B0E2-1F4306B88001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4282B8C-5AC4-4A31-B0E2-1F4306B88001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4282B8C-5AC4-4A31-B0E2-1F4306B88001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4282B8C-5AC4-4A31-B0E2-1F4306B88001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79831AB-D737-411F-8F8C-8C0FC7E4B009}
+	EndGlobalSection
+EndGlobal
